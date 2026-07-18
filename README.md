@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Synapse — AI Study Platform
 
 Synapse is a full-stack study assistant: an AI tutor you can chat with, a place to upload your notes and ask questions about them directly, auto-generated flashcards with spaced repetition, AI-generated quizzes, a task planner with a Pomodoro timer, and a dashboard that tracks your progress over time.
@@ -174,3 +175,6 @@ This is intentionally simple and great for a portfolio project or local personal
 ---
 
 Built as a portfolio project. Feel free to fork, extend, and make it your own.
+=======
+
+>>>>>>> 172d16933c9b8f60f250b878a3c16ba7a8e031d1
